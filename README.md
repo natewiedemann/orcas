@@ -1,11 +1,11 @@
 # orcas
 
 The environment consists of the following packages, if it's easier to install manually:
-numpy
-pandas
-pip install -U openai-whisper
-pip install jiwer
-pip install soundfile
+- numpy
+- pandas
+- pip install -U openai-whisper
+- pip install jiwer
+- pip install soundfile
 
 I had to use Python 3.8, as Whisper didn't work on my machine with 3.9.
 
